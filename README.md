@@ -6,6 +6,8 @@ A different emulator is created for each simulation suite (SIMBA/IllustrisTNG), 
 
 The emulator is constructed using the profiles found in emulator_profiles (but this can be substituted for the CAMELS SQL database, for example) and the interpolation methods of the repository *ostrich*, found at: https://github.com/dylancromer/ostrich.
 
+The modified version of *ostrich* that works with emu_CAMELS can be found at https://github.com/ethlau/ostrich. 
+
 
 ## Dependencies:
 
